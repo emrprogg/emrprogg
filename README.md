@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://emraharas.cf/" target="_blank">Website</a>
   |
-  <a href="https://discord.com/users/441221465019514881" target="_blank">Discord, "Emrah#6638"</a>
+  <a href="https://discord.com/users/441221465019514881" target="_blank">Discord, "Emrah#0001"</a>
   |
   <a href="https://steamcommunity.com/id/9899199/" target="_blank">Steam</a>
 </p>
