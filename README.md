@@ -15,7 +15,7 @@
 <br><br>
 <h2 align="center"> Contact Me </h2>
 <p align="center">
-  <a href="https://emraharas.cf/" target="_blank">Website</a>
+  <a href="https://emraharas.xyz/" target="_blank">Website</a>
   |
   <a href="https://discord.com/users/441221465019514881" target="_blank">Discord, "Emrah#0001"</a>
   |
