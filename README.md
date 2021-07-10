@@ -5,7 +5,7 @@
 - 👀 __**Name**__: Emrah "Emrah-Aras" Aras
 - 🖥️ **Who?**: I'm a Turkish guy who loves coding.
 - 🤿 **Learning:** Vue.js and Nuxt.js
-- 📢 **For more info look at** [my personal website](https://emraharas.cf/).
+- 📢 **For more info look at** [my personal website](https://emraharas.xyz/).
 <details>
 <summary>My Metrics</summary>
 <br>
